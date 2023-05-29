@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/library/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/library/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-alps")(type "KiCad")(uri "${KIPRJMOD}/library/marbastlib/marbastlib-alps.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/library/marbastlib/marbastlib-choc.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-hitek")(type "KiCad")(uri "${KIPRJMOD}/library/marbastlib/marbastlib-hitek.pretty")(options "")(descr ""))
+)
